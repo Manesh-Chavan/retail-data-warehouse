@@ -1,0 +1,11 @@
+store_id,store_name,city,store_type,opening_date,store_key
+1,Store_1,PUNE,Online,2016-12-28,1
+2,Store_2,DELHI,Standalone,2016-03-05,2
+3,Store_3,DELHI,Online,2018-10-04,3
+4,Store_4,DELHI,Standalone,2016-06-30,4
+5,Store_5,MUMBAI,Mall,2018-12-08,5
+6,Store_6,MUMBAI,Mall,2020-04-02,6
+7,Store_7,MUMBAI,Standalone,2018-10-31,7
+8,Store_8,PUNE,Online,2018-08-20,8
+9,Store_9,CHENNAI,Mall,2015-05-27,9
+10,Store_10,DELHI,Mall,2018-06-01,10
